@@ -1,5 +1,4 @@
 baseURL = 'http://blog.kosodatepapa.jp/'
-canonifyurls = true
 languageCode = 'ja'
 title = 'kosodatepapaブログ'
 theme = "mainroad"
