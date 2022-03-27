@@ -1,7 +1,9 @@
-baseURL = 'http://blog.kosodatepapa.jp/profile'
+baseURL = 'http://blog.kosodatepapa.jp/'
+canonifyurls = true
 languageCode = 'ja'
 title = 'kosodatepapaブログ'
 theme = "mainroad"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 mainSections = ["post"]
+publishDir = "../docs"
