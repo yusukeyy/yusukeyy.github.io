@@ -1,0 +1,7 @@
+baseURL = 'http://blog.kosodatepapa.jp/profile'
+languageCode = 'ja'
+title = 'kosodatepapaブログ'
+theme = "mainroad"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+mainSections = ["post"]
